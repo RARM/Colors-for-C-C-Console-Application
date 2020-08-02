@@ -13,6 +13,8 @@ In Windows, it is supposed to work only if the background color of the console i
 Nevertheless, it is a fast and simple to use library.
 
 ## How to Use
+The header file and the source code is in the `src` folder.
+
 ### Include the Header
 Include the header in your source code.
 ```c
